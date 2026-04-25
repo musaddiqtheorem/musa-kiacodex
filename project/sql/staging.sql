@@ -1,0 +1,2 @@
+-- Placeholder staging SQL for Lifecycle Intelligence Engine.
+-- Add CREATE TABLE AS SELECT statements for source normalization here.

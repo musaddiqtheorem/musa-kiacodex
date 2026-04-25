@@ -1,0 +1,2 @@
+-- Placeholder feature SQL for Lifecycle Intelligence Engine.
+-- Add feature engineering SELECT statements and materializations here.
