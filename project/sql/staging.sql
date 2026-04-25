@@ -1,0 +1,2 @@
+-- Placeholder SQL for staging transformations.
+-- Add data cleansing, schema normalization, and validation logic here.

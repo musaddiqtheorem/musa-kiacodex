@@ -1,0 +1,2 @@
+-- Placeholder SQL for feature engineering transformations.
+-- Add aggregations, temporal features, and scoring inputs here.
